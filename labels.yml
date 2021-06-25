@@ -1,0 +1,51 @@
+- name: "business"
+  color: "B1EA33"
+  description: "Business related task"
+
+- name: "dev:bug"
+  color: "2343CE"
+  description: "Fixing a bug"
+
+- name: "dev:enhancement"
+  color: "38E8FE"
+  description: "Updating existing code"
+
+- name: "dev:feature"
+  color: "E105CF"
+  description: "Creating a new feature"
+
+- name: "dev:investigation"
+  color: "7D5723"
+  description: "Research and investigation"
+
+- name: "dev:ops"
+  color: "17EF9C"
+  description: "Devops"
+
+- name: "dev:refactor"
+  color: "7AF4C5"
+  description: "Refactoring existing code"
+
+- name: "difficulty:easy"
+  color: "0E8A16"
+  description: "Takes less than a week"
+
+- name: "difficulty:hard"
+  color: "B60205"
+  description: "Takes multiple weeks"
+
+- name: "difficulty:medium"
+  color: "FBCA04"
+  description: "Takes around 1 week"
+
+- name: "priority:high"
+  color: "E99695"
+  description: "Takes priority over other tickets"
+
+- name: "priority:low"
+  color: "C2E0C6"
+  description: "Can be done anytime"
+
+- name: "priority:medium"
+  color: "FEF2C0"
+  description: "Should be done after higher priority tickets"
